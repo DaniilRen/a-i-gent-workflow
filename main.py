@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from interp.OpenInterpreter import OpenInterpreter
 from interp.Reader import Reader
 

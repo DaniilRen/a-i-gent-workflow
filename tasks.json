@@ -1,7 +1,8 @@
 {
     "global_instructions":
     [
-        "do not write comments"
+        "make no comments",
+        "just perform task, answer to my prompt and explain as little as possible"
     ],
     "tasks":
     [
