@@ -1,0 +1,11 @@
+{
+  "interpreter": {
+    "llm": {
+      "model": "ollama/qwen2.5-coder:latest",
+      "api_base": "http://localhost:11434",
+      "supports_functions": false
+    },
+    "auto_run": true,
+    "local": true
+  }
+}

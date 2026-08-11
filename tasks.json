@@ -1,0 +1,10 @@
+{
+    "global_instructions":
+    [
+        "do not write comments"
+    ],
+    "tasks":
+    [
+        "create file TEST.md in ~/"
+    ]
+}
