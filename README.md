@@ -8,7 +8,7 @@ requires Python 3.11-3.12 (modern versions are not compatable with open-interpre
 1. install compatable Python version
 2. create venv (use virtualenv, pyenv, e.t.c.) and activate it
 3. download requirements: `pip install -r requirements.txt`
-4. run needed script: `python example.py` - it should open ai agent automatically running your tasks. It closes dialog after all tasks are executed
+4. run needed script: `python example.py` - it should open ai agent automatically running your tasks. It close dialog after all tasks are executed   
 
 ## Configuration
 ### config.json

@@ -9,6 +9,7 @@ if __name__ == "__main__":
     task_reader = Reader()
     task_reader.read_tasks()
     for task in task_reader.get_tasks():
+        print(f"{task_reader.get_tasks().index(task)+1}) {task}")
         interpreter.chat(task)        
     
 

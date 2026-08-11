@@ -5,6 +5,7 @@
     ],
     "tasks":
     [
-        "create file TEST.md in ~/"
+        "open http://localhost:11434/api/tags and copy JSON data from this page to /home/danb/Code/a-i-gent-workflow/parsed.json",
+        "read /home/danb/Code/a-i-gent-workflow/parsed.json and copy all listed models`s names to /home/danb/Code/a-i-gent-workflow/models.txt" 
     ]
 }

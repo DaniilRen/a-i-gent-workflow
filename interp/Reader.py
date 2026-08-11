@@ -18,5 +18,5 @@ class Reader():
 
     def apply_global_instructions(self) -> None:
         for i in range(len(self.tasks)):
-            self.tasks[i] = self.global_instructions + "\n" + self.tasks[i]
+            self.tasks[i] += "\n" + self.global_instructions
             
